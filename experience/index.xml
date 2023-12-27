@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on Thinking Volvox</title>
+    <link>/experience/</link>
+    <description>Recent content in Experiences on Thinking Volvox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2023 &lt;a href=&#34;https://www.varunramaswamy.com/&#34;&gt;Varun Ramaswamy&lt;/a&gt;
+</copyright><atom:link href="/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/experience/experience_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/experience/experience_1/</guid>
+      <description>Things I have done, previously. Worked with various organizations within Seagate&#39;s office of the CTO and Product Management. Notable projects, - Product : Lyve Cloud Data Infrastructure. - Market Research: JBOM. - NPI: Seagate PLM to build case for new product in existing swim lane. </description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/experience/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/experience/experience/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
