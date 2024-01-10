@@ -8,32 +8,26 @@
     <language>en</language>
     <copyright>&amp;copy; 2023 &lt;a href=&#34;https://www.varunramaswamy.com/&#34;&gt;Varun Ramaswamy&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Dec 2023 17:40:02 -0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curriculum Vitae</title>
       <link>/experience/experience_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Dec 2023 13:11:22 +0800</pubDate>
       
       <guid>/experience/experience_1/</guid>
       <description>Things I have done, previously. Worked with various organizations within Seagate&#39;s office of the CTO and Product Management. Notable projects, - Product : Lyve Cloud Data Infrastructure. - Market Research: JBOM. - NPI: Seagate PLM to build case for new product in existing swim lane. </description>
     </item>
     
     <item>
-      <title>Experience</title>
-      <link>/experience/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>2023 - Retrospective</title>
+      <link>/posts/the_year_in_review_2023/</link>
+      <pubDate>Sun, 31 Dec 2023 17:40:02 -0800</pubDate>
       
-      <guid>/experience/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diagram Support</title>
-      <link>/posts/diagram-support/</link>
-      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
-      
-      <guid>/posts/diagram-support/</guid>
-      <description>&lt;p&gt;Eureka supports the rendering of diagrams by using Mermaid.&lt;/p&gt;</description>
+      <guid>/posts/the_year_in_review_2023/</guid>
+      <description>Looking back on 2023, the year that has been.
+I generally audit my year around the time of the winter holidays. It is an exercise in perspective. Grudgingly, it is my only attempt throughout the year to practise gratitude. Here goes,
+There are a few themes that outline most of my life,
+- Vocation(broader than work) - Health - Relationships - Fun/Leisure Work .....Or something along those lines The thing that we exchange time and money for&amp;hellip;and fame/infamy?</description>
     </item>
     
     <item>
@@ -70,33 +64,6 @@
       
       <guid>/docs/example-doc/nested-chapter/chapter-2/</guid>
       <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Featured Image</title>
-      <link>/posts/featured-image/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/featured-image/</guid>
-      <description>&lt;p&gt;Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>/posts/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
   </channel>
